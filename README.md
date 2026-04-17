@@ -4,7 +4,7 @@ Fabric Labs:
 
 > Pipelines
 
-- create LH
+- create Lakehouse
 - import "FactInternetSales" into Lakehouse using "Dataflow Gen2"
 
 > Lakehouse > Get Data > New Dataflow Gen2> 
